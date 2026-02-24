@@ -1,0 +1,5 @@
+bet_ledger.csv
+health_errors.log
+backups/
+__pycache__/
+.env
